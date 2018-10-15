@@ -2,4 +2,4 @@
 Study the parallel computing in Julia
 
 
-Notebook is: Parallel Computing Note.ipynb
+Notebook is: **Parallel Computing Note.ipynb**
